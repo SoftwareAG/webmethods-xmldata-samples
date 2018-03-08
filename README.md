@@ -8,6 +8,6 @@ Download the sample package zip file into your IS Server's packages/replicate/in
 
 The Word document can be viewed directy.
 
-The JavaDoc can be downloaded as a aip file and extracted to a convenient location on your computer and viewed by opening a browser on the index page.
+The JavaDoc can be downloaded as a zip file and extracted to a convenient location on your computer and viewed by opening a browser on the index page.
 
 In addition, the Admin home page of the package contains links to the Word document and the JavaDoc. 
